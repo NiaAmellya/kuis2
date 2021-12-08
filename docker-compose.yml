@@ -19,7 +19,7 @@ services:
         restart: always
         environment:
             MYSQL_ROOT_PASSWORD: N1a*Am&eLLy?a
-	    MYSQL_DATABASE: web_personal
+	        MYSQL_DATABASE: web_personal
             MYSQL_USER: admin
             MYSQL_PASSWORD: N1a*Am&eLLy?a
         ports:
